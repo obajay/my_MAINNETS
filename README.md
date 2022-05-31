@@ -17,6 +17,8 @@
 11. [UMEE](https://www.mintscan.io/umee/validators/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3)
 
 
-STAVR - 	https://t.me/STAVRRR
 
-discord SAKURA#0129
+
+STAVR - https://t.me/STAVRRR
+
+discord - SAKURA#0129
