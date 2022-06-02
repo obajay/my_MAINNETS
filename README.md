@@ -15,7 +15,7 @@
 9. [CHRONIC](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1tcj5327d080evnde94dmn2fclysgm6sr8qv2jq)
 10. [PROVENANCE](https://www.mintscan.io/provenance/validators/pbvaloper1vclg6sh22dcnr3klslqfux6jpsr4dl5nkwx4zm)
 11. [UMEE](https://www.mintscan.io/umee/validators/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3)
-
+12. [Forta](https://explorer.forta.network/network) Polygon - node scanner 0x135443A64A4Da7C8B878b57244c24378ACb046Fe
 
 
 
