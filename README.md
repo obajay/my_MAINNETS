@@ -16,7 +16,7 @@
 10. [PROVENANCE](https://www.mintscan.io/provenance/validators/pbvaloper1vclg6sh22dcnr3klslqfux6jpsr4dl5nkwx4zm) commission 5%, APR -waiting for inflation ON
 11. [UMEE](https://www.mintscan.io/umee/validators/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3) commission 10%, APR ~51.5%
 12. [Forta](https://explorer.forta.network/network) Polygon - node scanner 0x135443A64A4Da7C8B878b57244c24378ACb046Fe
-13. [Mises](https://github.com/obajay/my_MAINNETS)
+13. [Mises](https://gw.mises.site/validators)
 
 
 
