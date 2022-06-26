@@ -1,5 +1,7 @@
 # my_MAINNETS 
 
+We are reliability and success
+
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
 
 
@@ -16,7 +18,8 @@
 10. [PROVENANCE](https://www.mintscan.io/provenance/validators/pbvaloper1vclg6sh22dcnr3klslqfux6jpsr4dl5nkwx4zm) commission 5%, APR -waiting for inflation ON
 11. [UMEE](https://www.mintscan.io/umee/validators/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3) commission 10%, APR ~51.5%
 12. [Forta](https://explorer.forta.network/network) Polygon - node scanner 0x135443A64A4Da7C8B878b57244c24378ACb046Fe
-13. [Mises](https://gw.mises.site/validators)
+13. [Mises](https://gw.mises.site/validators) commission 5%
+14. [IDEP](https://chadscan.com/validators/idepvaloper16jd3xjhl0kjgmuqguut0adxpfdhrmz26mgvd8n) commission 5%, APR ~69.5%
 
 
 
