@@ -11,7 +11,7 @@ We are reliability and success
 3. [GRAVITY BRIDGE](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1qz50nzevfjqaftt67twfr2tzajc27uv7n5ttfv) commission 10%, APR ~37%
 4. [AGORIC](https://agoric.explorers.guru/validator/agoricvaloper16w8w9l89av0vey6gdreatkuh43n69u7je2t7l2) commission 0%, APR -23%
 5. [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1v3q2kuups8gzjk2930haevwn08gl9vfld69m9g) commission 10%, APR ~617%
-6. [GALAXY](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp) commission 5%, APR ~??????%
+6. [GALAXY](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp) commission 5%, APR 197%
 7. [MEME](https://ping.pub/meme/staking/memevaloper1hjd7mxw0lvvu6vqkcpglte2f4u8gy4r5lkxqcs) commission 7%, APR ~26%
 8. [NYM](https://mixnet.explorers.guru/mixnode/4RfTcrahCMW4omkkfsmPsAdPzisX8HpYEDaL4DtpdTCe) commission 5%, APR ~35%
 9. [CHRONIC](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1tcj5327d080evnde94dmn2fclysgm6sr8qv2jq) commission 5%, APR ~?????%
