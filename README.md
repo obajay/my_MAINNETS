@@ -22,7 +22,7 @@ We are reliability and success
 14. [IDEP](https://chadscan.com/validators/idepvaloper16jd3xjhl0kjgmuqguut0adxpfdhrmz26mgvd8n) commission 5%, APR ~1084%
 15. [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1c5p4sqgz5jslpywsk5c0nasqqjfucv9lvjlnry) commission 5%, APR ~35%
 16. [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j) commission 7%, APR ~85%
-17. [DIG](https://look.chillvalidation.com/dig/staking/digvaloper1lzs9a922fygv2dlm97jgfqm9ueqq3rj938kqdq)
+17. [DIG](https://look.chillvalidation.com/dig/staking/digvaloper1lzs9a922fygv2dlm97jgfqm9ueqq3rj938kqdq) commission 10%, APR ~25%
 
 
 
