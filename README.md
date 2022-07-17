@@ -19,7 +19,7 @@ We are reliability and success
 11. [UMEE](https://www.mintscan.io/umee/validators/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3) commission 10%, APR ~43.5%
 12. [Forta](https://explorer.forta.network/network) Polygon - node scanner 0x135443A64A4Da7C8B878b57244c24378ACb046Fe
 13. [Mises](https://gw.mises.site/validators) commission 5%
-14. [IDEP](https://chadscan.com/validators/idepvaloper16jd3xjhl0kjgmuqguut0adxpfdhrmz26mgvd8n) commission 5%, APR ~793%
+14. [IDEP](https://chadscan.com/validators/idepvaloper16jd3xjhl0kjgmuqguut0adxpfdhrmz26mgvd8n) commission 5%, APR ~771%
 15. [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1c5p4sqgz5jslpywsk5c0nasqqjfucv9lvjlnry) commission 5%, APR ~35%
 16. [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j) commission 7%, APR ~85%
 17. [DIG](https://look.chillvalidation.com/dig/staking/digvaloper1lzs9a922fygv2dlm97jgfqm9ueqq3rj938kqdq) commission 10%, APR ~25%
