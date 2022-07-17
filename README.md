@@ -24,7 +24,7 @@ We are reliability and success
 16. [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j) commission 7%, APR ~85%
 17. [DIG](https://look.chillvalidation.com/dig/staking/digvaloper1lzs9a922fygv2dlm97jgfqm9ueqq3rj938kqdq) commission 10%, APR ~25%
 18. [BeeZee](https://explorer.erialos.me/beezee/staking/bzevaloper16zk776px8ef00hmd59vgnueegyrkk3lja0nhy4) commission 10%, APR ~4.5%
-
+19. [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1w7ayxavsjahthtkfdzs8gp75htn30gxru4pmzk)  commission 5%, APR ~37%
 
 
     
