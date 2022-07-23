@@ -21,7 +21,7 @@ We are reliability and success
 13. [Mises](https://gw.mises.site/validators) commission 5%
 14. [IDEP](https://chadscan.com/validators/idepvaloper16jd3xjhl0kjgmuqguut0adxpfdhrmz26mgvd8n) commission 5%, APR ~731%
 15. [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1c5p4sqgz5jslpywsk5c0nasqqjfucv9lvjlnry) commission 5%, APR ~35%
-16. [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j) commission 7%, APR ~62%
+16. [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j) commission 10%, APR ~62%
 17. [DIG](https://look.chillvalidation.com/dig/staking/digvaloper1lzs9a922fygv2dlm97jgfqm9ueqq3rj938kqdq) commission 10%, APR ~25%
 18. [BeeZee](https://explorer.erialos.me/beezee/staking/bzevaloper16zk776px8ef00hmd59vgnueegyrkk3lja0nhy4) commission 10%, APR ~4.5%
 19. [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1w7ayxavsjahthtkfdzs8gp75htn30gxru4pmzk)  commission 5%, APR ~37%
