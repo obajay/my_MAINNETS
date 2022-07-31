@@ -28,7 +28,8 @@
 
     
 
-                                    discord - SAKURA#0129
++ discord  - SAKURA#0129
++ telegram - https://t.me/STAVRRR
 
-  STAVR - https://t.me/STAVRRR
+
 
