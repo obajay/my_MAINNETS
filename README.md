@@ -1,8 +1,7 @@
 # my_MAINNETS 
 
-We are reliability and success
-
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
+![1112](https://user-images.githubusercontent.com/44331529/182032504-e2573fbf-b4c4-4fc1-b7c8-08c00d272be8.png)
 
 
 
