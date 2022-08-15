@@ -2,7 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
 
-![333](https://user-images.githubusercontent.com/44331529/184583524-6826270e-ed9d-493c-a5cc-b9793164df91.png)
+![333](https://user-images.githubusercontent.com/44331529/184584254-3e5aa51c-7e0f-4a6f-b060-fad10e7e0aec.png)
 
 
 1. [SOLANA](https://www.validators.app/?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
