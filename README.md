@@ -25,7 +25,7 @@
 18. [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j) commission 10%, APR ~62%
 19. [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1w7ayxavsjahthtkfdzs8gp75htn30gxru4pmzk) commission 5%, APR ~37%
 20. [Genesisl1](https://ping.pub/genesisl1/staking/genesisvaloper1p4n3fy8wqmn4ja0fp4lenaemyzlxrp6ysrhxfj) commission 10%, APR ~19%
-21. [Canto](https://explorer.nodestake.top/canto/staking) commission 5%, APR ??
+21. [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1tav4ldqxyjhcymdhswxrjrmy69un2yh4vpfhtt) commission 5%, APR ??
     
 
 + discord  - SAKURA#0129
