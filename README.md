@@ -15,7 +15,7 @@
 8. [NYM](https://mixnet.explorers.guru/mixnode/4RfTcrahCMW4omkkfsmPsAdPzisX8HpYEDaL4DtpdTCe) commission 10%, APR ~42%
 9. [CHRONIC](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1tcj5327d080evnde94dmn2fclysgm6sr8qv2jq) commission 5%, APR ~11%
 10. [PROVENANCE](https://www.mintscan.io/provenance/validators/pbvaloper1vclg6sh22dcnr3klslqfux6jpsr4dl5nkwx4zm) commission 5%, APR -waiting for inflation ON
-11. [UMEE](https://www.mintscan.io/umee/validators/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3) commission 10%, APR ~41%
+11. [UMEE](https://www.mintscan.io/umee/validators/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3) commission 10%, APR ~36%
 12. [Forta](https://explorer.forta.network/network) Polygon - node scanner 0x135443A64A4Da7C8B878b57244c24378ACb046Fe
 13. [IDEP](https://chadscan.com/validators/idepvaloper16jd3xjhl0kjgmuqguut0adxpfdhrmz26mgvd8n) commission 7%, APR ~669%
 14. [Mises](https://gw.mises.site/validators/misesvaloper1dj7dyrz30ap65etcj6v55w4jtz07utaukvqc8z) commission 10%
