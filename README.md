@@ -17,7 +17,7 @@
 10. [PROVENANCE](https://www.mintscan.io/provenance/validators/pbvaloper1vclg6sh22dcnr3klslqfux6jpsr4dl5nkwx4zm) commission 5%, APR -waiting for inflation ON
 11. [UMEE](https://www.mintscan.io/umee/validators/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3) commission 10%, APR ~36%
 12. [Forta](https://explorer.forta.network/network) Polygon - node scanner 0x135443A64A4Da7C8B878b57244c24378ACb046Fe
-13. [IDEP](https://chadscan.com/validators/idepvaloper16jd3xjhl0kjgmuqguut0adxpfdhrmz26mgvd8n) commission 7%, APR ~669%
+13. [IDEP](https://chadscan.com/validators/idepvaloper16jd3xjhl0kjgmuqguut0adxpfdhrmz26mgvd8n) commission 7%, APR ~609%
 14. [Mises](https://gw.mises.site/validators/misesvaloper1dj7dyrz30ap65etcj6v55w4jtz07utaukvqc8z) commission 10%
 15. [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1c5p4sqgz5jslpywsk5c0nasqqjfucv9lvjlnry) commission 5%, APR ~35%
 16. [DIG](https://look.chillvalidation.com/dig/staking/digvaloper1lzs9a922fygv2dlm97jgfqm9ueqq3rj938kqdq) commission 10%, APR ~25%
