@@ -7,7 +7,7 @@
 
 1. [SOLANA](https://www.validators.app/?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
 2. [SIFCHAIN](https://www.mintscan.io/sifchain/validators/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
-3. [GRAVITY BRIDGE](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1qz50nzevfjqaftt67twfr2tzajc27uv7n5ttfv) commission 10%, APR ~37%
+3. [GRAVITY BRIDGE](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1qz50nzevfjqaftt67twfr2tzajc27uv7n5ttfv) commission 10%, APR ~36%
 4. [AGORIC](https://agoric.explorers.guru/validator/agoricvaloper16w8w9l89av0vey6gdreatkuh43n69u7je2t7l2) commission 0%, APR ~15%
 5. [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1v3q2kuups8gzjk2930haevwn08gl9vfld69m9g) commission 10%, APR ~293%
 6. [GALAXY](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp) commission 5%, APR 178%
