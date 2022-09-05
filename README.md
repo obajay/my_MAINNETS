@@ -19,7 +19,7 @@
 12. [Forta](https://explorer.forta.network/network) Polygon - node scanner 0x135443A64A4Da7C8B878b57244c24378ACb046Fe
 13. [IDEP](https://chadscan.com/validators/idepvaloper16jd3xjhl0kjgmuqguut0adxpfdhrmz26mgvd8n) commission 7%, APR ~609%
 14. [Mises](https://gw.mises.site/validators/misesvaloper1dj7dyrz30ap65etcj6v55w4jtz07utaukvqc8z) commission 10%
-15. [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1c5p4sqgz5jslpywsk5c0nasqqjfucv9lvjlnry) commission 5%, APR ~35%
+15. [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1c5p4sqgz5jslpywsk5c0nasqqjfucv9lvjlnry) commission 10%, APR ~35%
 16. [DIG](https://look.chillvalidation.com/dig/staking/digvaloper1lzs9a922fygv2dlm97jgfqm9ueqq3rj938kqdq) commission 10%, APR ~25%
 17. [BeeZee](https://explorer.erialos.me/beezee/staking/bzevaloper16zk776px8ef00hmd59vgnueegyrkk3lja0nhy4) commission 10%, APR ~4.5%
 18. [Konstellation](https://www.mintscan.io/konstellation/validators/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j) commission 10%, APR ~62%
