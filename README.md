@@ -2,8 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
 
-![333](https://user-images.githubusercontent.com/44331529/184584254-3e5aa51c-7e0f-4a6f-b060-fad10e7e0aec.png)
-
+![333](https://user-images.githubusercontent.com/44331529/189395161-765b4df3-e560-4a8c-a310-e89e818b7fe2.png)
 
 1. [SOLANA](https://www.validators.app/?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
 2. [SIFCHAIN](https://www.mintscan.io/sifchain/validators/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
