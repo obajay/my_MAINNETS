@@ -2,7 +2,8 @@
 
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
 
-![333](https://user-images.githubusercontent.com/44331529/189395161-765b4df3-e560-4a8c-a310-e89e818b7fe2.png)
+![333](https://user-images.githubusercontent.com/44331529/189732864-74fb016c-ad95-416c-8604-513dd7ecd201.png)
+
 
 1. [SOLANA](https://www.validators.app/?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
 2. [SIFCHAIN](https://www.mintscan.io/sifchain/validators/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
@@ -26,6 +27,7 @@
 20. [Genesisl1](https://ping.pub/genesisl1/staking/genesisvaloper1p4n3fy8wqmn4ja0fp4lenaemyzlxrp6ysrhxfj) commission 10%, APR ~19%
 21. [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1tav4ldqxyjhcymdhswxrjrmy69un2yh4vpfhtt) commission 5%, APR 230%
 22. [Stride](https://exp.nodeist.net/Stride/staking/stridevaloper1n94ndmxqf7vke553lr3ewwt4edtc4g6mdyx9qn) commission 10%, APR ???
+23. [Rebus](https://mainnet.manticore.team/rebus/staking/rebusvaloper18yh3xfp43tpla6hd6wzdxu5lhwfcf3f54gnhey) commission 5%, APR 13%
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
