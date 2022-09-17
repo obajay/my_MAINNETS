@@ -28,7 +28,7 @@
 21. [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1tav4ldqxyjhcymdhswxrjrmy69un2yh4vpfhtt) commission 5%, APR 230%
 22. [Stride](https://exp.nodeist.net/Stride/staking/stridevaloper1n94ndmxqf7vke553lr3ewwt4edtc4g6mdyx9qn) commission 10%, APR ???
 23. [Rebus](https://mainnet.manticore.team/rebus/staking/rebusvaloper18yh3xfp43tpla6hd6wzdxu5lhwfcf3f54gnhey) commission 5%, APR 13%
-24. [Bitcanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper19tyve4e8nf0twd8z02a2eatrls7tuecy0ef098)
+24. [Bitcanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper19tyve4e8nf0twd8z02a2eatrls7tuecy0ef098) commission 10%, APR 30.5%
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
