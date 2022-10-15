@@ -2,7 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
 
-![333](https://user-images.githubusercontent.com/44331529/193641709-ec1149ea-a25d-47f2-b035-219f62cf609d.png)
+![2221](https://user-images.githubusercontent.com/44331529/195984561-f4410d7b-04e5-4f0b-bbf3-8b05205455ff.png)
 
 1. [SOLANA](https://www.validators.app/?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
 2. [SIFCHAIN](https://www.mintscan.io/sifchain/validators/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
@@ -28,7 +28,8 @@
 22. [Stride](https://exp.nodeist.net/Stride/staking/stridevaloper1n94ndmxqf7vke553lr3ewwt4edtc4g6mdyx9qn) commission 10%, APR ???
 23. [Rebus](https://mainnet.manticore.team/rebus/staking/rebusvaloper18yh3xfp43tpla6hd6wzdxu5lhwfcf3f54gnhey) commission 5%, APR 13%
 24. [Bitcanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper19tyve4e8nf0twd8z02a2eatrls7tuecy0ef098) commission 10%, APR 30.5%
-25.	[Teritori](http://explorer.stavr.tech/teritori-main/staking) commission 5%, APR ???
+25.	[Teritori](https://explorer.stavr.tech/teritori-main/staking/torivaloper1sqk72uwf6tg867ssuu7whxfu9pfcyrpeqwa92c) commission 10%, APR 700% 
+26. [Lambda](https://explorer.stavr.tech/lambda/staking/lambvaloper1pkldxj2cnrhajx0fms2gxlzhh6k2gcg5k88a83) commission 10%, APR 4%
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
