@@ -2,7 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
 
-![2221](https://user-images.githubusercontent.com/44331529/195984561-f4410d7b-04e5-4f0b-bbf3-8b05205455ff.png)
+![111](https://user-images.githubusercontent.com/44331529/196859278-74dcc491-2807-482a-9f76-c4cb660b74bd.png)
 
 1. [SOLANA](https://www.validators.app/?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
 2. [SIFCHAIN](https://explorer.stavr.tech/sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
@@ -12,7 +12,7 @@
 6. [GALAXY](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp) commission 5%, APR 178%
 7. [MEME](https://explorer.stavr.tech/meme/staking/memevaloper1hjd7mxw0lvvu6vqkcpglte2f4u8gy4r5lkxqcs) commission 7%, APR ~26%
 8. [NYM](https://mixnet.explorers.guru/mixnode/4RfTcrahCMW4omkkfsmPsAdPzisX8HpYEDaL4DtpdTCe) commission 10%, APR ~42%
-9. [CHRONIC](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1tcj5327d080evnde94dmn2fclysgm6sr8qv2jq) commission 5%, APR ~11%
+9. [Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1pmhg449rk990w2acau2q2cpmh2m5333rjje9td)
 10. [PROVENANCE](https://explorer.stavr.tech/provenance/staking/pbvaloper1vclg6sh22dcnr3klslqfux6jpsr4dl5nkwx4zm) commission 5%, APR -waiting for inflation ON
 11. [UMEE](https://explorer.stavr.tech/umee/staking/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3) commission 10%, APR ~36%
 12. [Forta](https://explorer.forta.network/network) Polygon - node scanner 0x135443A64A4Da7C8B878b57244c24378ACb046Fe
@@ -30,7 +30,7 @@
 24. [Bitcanna](https://explorer.stavr.tech/bitcanna/staking/bcnavaloper19tyve4e8nf0twd8z02a2eatrls7tuecy0ef098) commission 10%, APR 30.5%
 25.	[Teritori](https://explorer.stavr.tech/teritori-main/staking/torivaloper1sqk72uwf6tg867ssuu7whxfu9pfcyrpeqwa92c) commission 10%, APR 700% 
 26. [Lambda](https://explorer.stavr.tech/lambda/staking/lambvaloper1pkldxj2cnrhajx0fms2gxlzhh6k2gcg5k88a83) commission 10%, APR 4%
-27. [Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1pmhg449rk990w2acau2q2cpmh2m5333rjje9td)
+
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
