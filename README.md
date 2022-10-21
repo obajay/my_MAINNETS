@@ -9,7 +9,7 @@
 3. [GRAVITY BRIDGE](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1qz50nzevfjqaftt67twfr2tzajc27uv7n5ttfv) commission 10%, APR ~36%
 4. [AGORIC](https://explorer.stavr.tech/agoric/staking/agoricvaloper16w8w9l89av0vey6gdreatkuh43n69u7je2t7l2) commission 0%, APR ~14%
 5. [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1v3q2kuups8gzjk2930haevwn08gl9vfld69m9g) commission 10%, APR ~253%
-6. [GALAXY](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp) commission 5%, APR 178%
+6. [GALAXY](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp) commission 5%, APR 173%
 7. [MEME](https://explorer.stavr.tech/meme/staking/memevaloper1hjd7mxw0lvvu6vqkcpglte2f4u8gy4r5lkxqcs) commission 7%, APR ~26%
 8. [NYM](https://mixnet.explorers.guru/mixnode/4RfTcrahCMW4omkkfsmPsAdPzisX8HpYEDaL4DtpdTCe) commission 10%, APR ~42%
 9. [Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1pmhg449rk990w2acau2q2cpmh2m5333rjje9td) commission 0%, APR ????
