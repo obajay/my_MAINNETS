@@ -2,7 +2,8 @@
 
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
 
-![111](https://user-images.githubusercontent.com/44331529/196859278-74dcc491-2807-482a-9f76-c4cb660b74bd.png)
+![111](https://user-images.githubusercontent.com/44331529/198370157-ea137946-99e3-40ab-87e5-dd9a0d296b5e.png)
+
 
 1. [SOLANA](https://www.validators.app/?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
 2. [SIFCHAIN](https://explorer.stavr.tech/sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
