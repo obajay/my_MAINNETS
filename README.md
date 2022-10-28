@@ -31,7 +31,7 @@
 24. [Bitcanna](https://explorer.stavr.tech/bitcanna/staking/bcnavaloper19tyve4e8nf0twd8z02a2eatrls7tuecy0ef098) commission 10%, APR 30.5%
 25.	[Teritori](https://explorer.stavr.tech/teritori-main/staking/torivaloper1sqk72uwf6tg867ssuu7whxfu9pfcyrpeqwa92c) commission 10%, APR 700% 
 26. [Lambda](https://explorer.stavr.tech/lambda/staking/lambvaloper1pkldxj2cnrhajx0fms2gxlzhh6k2gcg5k88a83) commission 10%, APR 4%
-27. [Jakal](https://explorer.stavr.tech/jakal/staking/jklvaloper1us3q2ytkn9zyn99gvf66u6nsn3wnq0n3kxpyvm) commission 5%, APR ?????%
+27. [Jackal](https://explorer.stavr.tech/jackal/staking/jklvaloper1us3q2ytkn9zyn99gvf66u6nsn3wnq0n3kxpyvm) commission 5%, APR ?????%
 
 
 + discord  - SAKURA#0129
