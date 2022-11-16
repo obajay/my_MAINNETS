@@ -5,7 +5,7 @@
 ![111](https://user-images.githubusercontent.com/44331529/198370157-ea137946-99e3-40ab-87e5-dd9a0d296b5e.png)
 
 
-1. [SOLANA](https://www.validators.app/?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
+1. [SOLANA](https://www.validators.app/validators?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
 2. [SIFCHAIN](https://explorer.stavr.tech/sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
 3. [GRAVITY BRIDGE](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1qz50nzevfjqaftt67twfr2tzajc27uv7n5ttfv) commission 10%, APR ~36%
 4. [AGORIC](https://explorer.stavr.tech/agoric/staking/agoricvaloper16w8w9l89av0vey6gdreatkuh43n69u7je2t7l2) commission 0%, APR ~14%
