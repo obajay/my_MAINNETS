@@ -12,7 +12,7 @@
 5. [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1v3q2kuups8gzjk2930haevwn08gl9vfld69m9g) commission 10%, APR ~253%
 6. [GALAXY](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp) commission 5%, APR 173%
 7. [MEME](https://explorer.stavr.tech/meme/staking/memevaloper1hjd7mxw0lvvu6vqkcpglte2f4u8gy4r5lkxqcs) commission 7%, APR ~26%
-8. [NYM](https://mixnet.explorers.guru/mixnode/4RfTcrahCMW4omkkfsmPsAdPzisX8HpYEDaL4DtpdTCe) commission 10%, APR ~42%
+8. [NYM](https://mixnet.explorers.guru/mixnode/4RfTcrahCMW4omkkfsmPsAdPzisX8HpYEDaL4DtpdTCe) commission 5%, APR ~22%
 9. [Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1pmhg449rk990w2acau2q2cpmh2m5333rjje9td) commission 0%, APR ????
 10. [PROVENANCE](https://explorer.stavr.tech/provenance/staking/pbvaloper1vclg6sh22dcnr3klslqfux6jpsr4dl5nkwx4zm) commission 5%, APR -waiting for inflation ON
 11. [UMEE](https://explorer.stavr.tech/umee/staking/umeevaloper1dkjcas3j43u3v6l94jhhhnjxhlnwxt3m02p4c3) commission 10%, APR ~36%
