@@ -2,7 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
 
-![111](https://user-images.githubusercontent.com/44331529/206962523-49580969-fbb4-474e-8df0-c74a1d427c44.png)
+![111](https://user-images.githubusercontent.com/44331529/208226615-e1f90272-d237-4bf0-9c18-788b9958bf4b.png)
 
 
 1. [SOLANA](https://www.validators.app/validators?q=9ZZx4pKeFgzxYVXRjGpX3FnAXKonTDNTymWLnYv6wfYA&network=mainnet&order=&refresh=&commit=Search) commission 10%, APR ~7.5%
@@ -33,6 +33,7 @@
 26. [Lambda](https://explorer.stavr.tech/lambda/staking/lambvaloper1pkldxj2cnrhajx0fms2gxlzhh6k2gcg5k88a83) commission 10%, APR 4%
 27. [Jackal](https://explorer.stavr.tech/jackal/staking/jklvaloper1us3q2ytkn9zyn99gvf66u6nsn3wnq0n3kxpyvm) commission 10%, APR ?????%
 28. [Pylons](https://explorer.stavr.tech/pylons/staking/pylovaloper1ug6vwrspderzxg2wjgpsnenlkvj8jj5v72s9um) commission 5%, APR ?????%
+29. [Quicksilver](https://explorer.stavr.tech/quicksilver-mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn) commission 5%, APR ?????%
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
