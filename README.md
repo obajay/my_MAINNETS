@@ -2,7 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
 
-![111](https://user-images.githubusercontent.com/44331529/216751090-f920b240-e104-42a6-8f5d-f3613dbfc16f.png)
+![111](https://user-images.githubusercontent.com/44331529/217156932-6f55888f-3cf0-402a-96a1-573dc7c33dc2.png)
 
 
 1. [SIFCHAIN](https://explorer.stavr.tech/sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
@@ -33,6 +33,7 @@
 26. [Pylons](https://explorer.stavr.tech/pylons/staking/pylovaloper1ug6vwrspderzxg2wjgpsnenlkvj8jj5v72s9um) commission 5%, APR ?????%
 27. [Quicksilver](https://explorer.stavr.tech/quicksilver-mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn) commission 5%, APR ?????%
 28. [Mars](https://explorer.stavr.tech/mars/staking/marsvaloper1pc3ahwcurfedenmmndtk6w4nv7yj08ywfyenqf) commission 10%, APR ?????%
+29. [C4E](https://explorer.stavr.tech/c4e/staking/c4evaloper1gc6vs2j3g2jpy2mzrwpmmwju9eafhn0gwx8lv8) commission 10%, APR ?????%
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
