@@ -1,9 +1,8 @@
 # my_MAINNETS 
 
-![1](https://user-images.githubusercontent.com/44331529/171047484-d6fb9116-3ce3-4872-9ea6-a73348f72f86.png)
+![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://user-images.githubusercontent.com/44331529/217156932-6f55888f-3cf0-402a-96a1-573dc7c33dc2.png)
-
+![111](https://user-images.githubusercontent.com/44331529/221395230-3a7ffa67-7597-43d2-9b5e-de059d778412.png)
 
 1. [SIFCHAIN](https://explorer.stavr.tech/sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
 2. [GRAVITY BRIDGE](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1qz50nzevfjqaftt67twfr2tzajc27uv7n5ttfv) commission 10%, APR ~36%
