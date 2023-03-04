@@ -33,8 +33,8 @@
 27. [Quicksilver](https://explorer.stavr.tech/quicksilver-mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn) commission 5%, APR ?????%
 28. [Mars](https://explorer.stavr.tech/mars/staking/marsvaloper1pc3ahwcurfedenmmndtk6w4nv7yj08ywfyenqf) commission 10%, APR ?????%
 29. [C4E](https://explorer.stavr.tech/c4e/staking/c4evaloper1gc6vs2j3g2jpy2mzrwpmmwju9eafhn0gwx8lv8) commission 10%, APR ?????%
-30. [Juno](https://explorer.stavr.tech/juno/staking/junovaloper177svs8gyz28pupaj6amgls6rahcmwmwq06fukv) commission 10%, APR ?????%
-31. [Arkh](https://explorer.stavr.tech/arkh-mainnet/staking/arkhvaloper1x5zx3tlcmy323jg6jnzt6qfxy5wgq587sx90fw) commission 10%, APR ?????%
+30. [Juno](https://explorer.stavr.tech/juno/staking/junovaloper177svs8gyz28pupaj6amgls6rahcmwmwq06fukv) commission 10%, APR 38%
+31. [Arkh](https://explorer.stavr.tech/arkh-mainnet/staking/arkhvaloper1x5zx3tlcmy323jg6jnzt6qfxy5wgq587sx90fw) commission 10%, APR 18%
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
