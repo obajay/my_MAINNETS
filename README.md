@@ -2,7 +2,8 @@
 
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://user-images.githubusercontent.com/44331529/222918898-957c7c7b-508c-48ab-ba78-3c98cb663aee.png)
+![111](https://user-images.githubusercontent.com/44331529/224079114-aa9d8426-e536-4a7e-908e-92332616c537.png)
+
 
 1. [SIFCHAIN](https://explorer.stavr.tech/sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
 2. [GRAVITY BRIDGE](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1qz50nzevfjqaftt67twfr2tzajc27uv7n5ttfv) commission 10%, APR ~36%
@@ -35,6 +36,7 @@
 29. [C4E](https://explorer.stavr.tech/c4e/staking/c4evaloper1gc6vs2j3g2jpy2mzrwpmmwju9eafhn0gwx8lv8) commission 10%, APR ?????%
 30. [Juno](https://explorer.stavr.tech/juno/staking/junovaloper177svs8gyz28pupaj6amgls6rahcmwmwq06fukv) commission 10%, APR 38%
 31. [Arkh](https://explorer.stavr.tech/arkh-mainnet/staking/arkhvaloper1x5zx3tlcmy323jg6jnzt6qfxy5wgq587sx90fw) commission 10%, APR 18%
+32. [Kusama](https://telemetry.w3f.community/#list/0xb0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe) STAVR
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
