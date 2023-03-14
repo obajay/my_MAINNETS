@@ -36,6 +36,7 @@
 30. [Juno](https://explorer.stavr.tech/juno/staking/junovaloper177svs8gyz28pupaj6amgls6rahcmwmwq06fukv) commission 10%, APR 38%
 31. [Arkh](https://explorer.stavr.tech/arkh-mainnet/staking/arkhvaloper1x5zx3tlcmy323jg6jnzt6qfxy5wgq587sx90fw) commission 10%, APR 18%
 32. [Kusama](https://telemetry.w3f.community/#list/0xb0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe) STAVR
+33. [Kyve](https://explorer.stavr.tech/kyve/staking/kyvevaloper16qwtkeadppy3u9z6pu9tuy8zq02u3vecun3s0d)
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
