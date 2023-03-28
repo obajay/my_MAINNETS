@@ -3,7 +3,7 @@
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
 
-![111](https://user-images.githubusercontent.com/44331529/227769374-ba46d2c1-30a5-42a3-b7e0-e72df85aecd0.png)
+![111](https://user-images.githubusercontent.com/44331529/228143768-281b028e-cec7-48b5-b95c-2fa83bf7cd66.png)
 
 
 1. [SIFCHAIN](https://explorer.stavr.tech/sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
@@ -41,6 +41,7 @@
 33. [Kyve](https://explorer.stavr.tech/kyve/staking/kyvevaloper16qwtkeadppy3u9z6pu9tuy8zq02u3vecun3s0d)
 34. [Aura](https://explorer.stavr.tech/aura-mainnet/staking/auravaloper1ucp33srru7g45ku6w207kc4hy6xd6psvmxw3xf)
 35. [Uptick](https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper1n9urj4d6mngtuhpfysdxu7nq72e8830wkx5mug)
+36. [Nois](https://explorer.stavr.tech/nois-mainnet/staking/noisvaloper1enwhnv85g4n99a2kzg8gey22xu6u43l4cxj824)
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
