@@ -2,7 +2,7 @@
 
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://user-images.githubusercontent.com/44331529/230656306-23d42ec6-1790-4ce0-8a8e-21d6db626714.png)
+![111](https://user-images.githubusercontent.com/44331529/231431644-c1b73eb4-5863-4100-9e2d-1f18dbcce088.png)
 
 
 
@@ -43,6 +43,7 @@
 35. [Uptick](https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper1n9urj4d6mngtuhpfysdxu7nq72e8830wkx5mug)
 36. [Nois](https://explorer.stavr.tech/nois-mainnet/staking/noisvaloper1enwhnv85g4n99a2kzg8gey22xu6u43l4cxj824)
 37. [Realio](https://explorer.stavr.tech/realio-mainnet/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4)
+38. [Terp](https://explorer.stavr.tech/terp-mainnet/staking/terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8)
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
