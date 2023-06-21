@@ -44,7 +44,7 @@
 37. [Realio](https://explorer.stavr.tech/realio-mainnet/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4)
 38. [Terp](https://explorer.stavr.tech/terp-mainnet/staking/terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8)
 39. [Gitopia](https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym)
-40. [Composable](https://explorer.stavr.tech/composable-mainnet/staking/banksyvaloper180wngzau7jzdw9xdqp0a4mm7740y5rfzhkwr5u)
+40. [Composable](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper180wngzau7jzdw9xdqp0a4mm7740y5rfzar2p69)
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
