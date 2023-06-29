@@ -1,8 +1,8 @@
 # my_MAINNETS 
 
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/8d1ce5c5-d65a-4ef5-9ff4-6200840a57ce)
 
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/6959772c-f73b-4bd0-94b5-4d93539a987b)
 
 
 1. [SIFCHAIN](https://explorer.stavr.tech/sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
@@ -45,6 +45,7 @@
 38. [Terp](https://explorer.stavr.tech/terp-mainnet/staking/terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8)
 39. [Gitopia](https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym)
 40. [Composable](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper180wngzau7jzdw9xdqp0a4mm7740y5rfzar2p69)
+41. [Empower](https://explorer.stavr.tech/empower-mainnet/staking/empowervaloper1c4jqjpjxm55hhxvssyuahd3zs3h567x0jyzmx0)
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
