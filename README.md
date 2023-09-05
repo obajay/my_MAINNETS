@@ -2,7 +2,7 @@
 
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/7bfc81f7-d4e2-40d0-acc6-cd4657779dae)
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/0241302a-4c20-4770-ad7e-878be72246b2)
 
 
 1. [SIFCHAIN](https://explorer.stavr.tech/sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp) commission 10%, APR ~122%
@@ -48,6 +48,7 @@
 41. [Empower](https://explorer.stavr.tech/empower-mainnet/staking/empowervaloper1c4jqjpjxm55hhxvssyuahd3zs3h567x0jyzmx0)
 42. [Haqq](https://explorer.stavr.tech/haqq-mainnet/staking/haqqvaloper1yj2hjxsu7gxcdje86hgnm9gn7z09ua9vhjx6pn)
 43. [Band](https://explorer.stavr.tech/band-mainnet/staking/bandvaloper1e2ksk2qw5wk4a996kj0mp9gucpr96ljnf3r358)
+44. [HOPR](https://network.hoprnet.org/dashboard?peerId=16Uiu2HAm6Ggj6v6Sv5WG9aA1tA9pncvcwJVMP6WsfLXDUf7gTT4S)
 
 + discord  - SAKURA#0129
 + telegram - https://t.me/STAVRRR
