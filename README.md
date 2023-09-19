@@ -50,7 +50,7 @@
 43. [Band](https://explorer.stavr.tech/Band-Mainnet/staking/bandvaloper1e2ksk2qw5wk4a996kj0mp9gucpr96ljnf3r358)
 44. [HOPR](https://network.hoprnet.org/dashboard?peerId=16Uiu2HAm6Ggj6v6Sv5WG9aA1tA9pncvcwJVMP6WsfLXDUf7gTT4S)
 
-+ discord  - SAKURA#0129
++ discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
 
 
