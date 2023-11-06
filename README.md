@@ -2,7 +2,8 @@
 
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/64985535-015b-4eb0-98c8-b59014307534)
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/6a28349b-6261-4a9a-a6d2-34a8000fe5dc)
+
 
 
 1. [Quicksilver](https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn)
@@ -50,6 +51,7 @@
 43. [HOPR](https://network.hoprnet.org/dashboard?peerId=16Uiu2HAm6Ggj6v6Sv5WG9aA1tA9pncvcwJVMP6WsfLXDUf7gTT4S)
 44. [Source](https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper13l78szv3mxcru9mhh2ndv58xla2arfzhv045cx)
 45. [SAO](https://explorer.stavr.tech/Sao-Beta/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
+46. [SGE](https://explorer.stavr.tech/Sge-Mainnet/staking/sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g)
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
