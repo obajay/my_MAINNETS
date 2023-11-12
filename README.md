@@ -2,8 +2,8 @@
 
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/6a28349b-6261-4a9a-a6d2-34a8000fe5dc)
 
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/2768afdc-f3c3-4761-81ad-ad897ece5698)
 
 
 1. [Quicksilver](https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn)
