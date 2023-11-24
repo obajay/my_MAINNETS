@@ -2,7 +2,7 @@
 
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/fad6526e-3ac4-4f68-9682-2721acb789b6)
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/a5acb605-69f9-43a5-8fe5-bed2a77955f1)
 
 
 
@@ -52,6 +52,7 @@
 44. [SAO](https://explorer.stavr.tech/Sao-Beta/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
 45. [SGE](https://explorer.stavr.tech/Sge-Mainnet/staking/sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g)
 46. [Cyber](https://explorer.stavr.tech/Cyber-Mainnet/staking/bostromvaloper165p3as2erpcpkea2v57fzhx5q570t2eumcmtm8)
+47. [Andromeda](https://explorer.stavr.tech/Andromeda-Mainnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
