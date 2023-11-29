@@ -2,7 +2,7 @@
 
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/1790bd35-015b-44cc-930f-b4dda7760ddf)
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/d8efcd2c-4870-453e-9c6f-26cafd087173)
 
 
 1. [Quicksilver](https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn)
@@ -53,6 +53,7 @@
 46. [Cyber](https://explorer.stavr.tech/Cyber-Mainnet/staking/bostromvaloper165p3as2erpcpkea2v57fzhx5q570t2eumcmtm8)
 47. [Andromeda](https://explorer.stavr.tech/Andromeda-Mainnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 48. [Lum Network](https://explorer.stavr.tech/LumNetwork-Mainnet/staking/lumvaloper1rs6733nm675q3hzx85dl75t3q893tfukyz22he)
+49. [Shentu](https://explorer.stavr.tech/Shentu-Mainnet/staking/shentuvaloper1d0jzx50cr5vl87ld8j0q7rfh8ka269vgra237z)
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
