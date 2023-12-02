@@ -3,7 +3,7 @@
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/d5fcd27e-4fe3-4abf-b0e1-ef44e8d9307d)
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/ffae43be-5ff2-43e2-b6db-ef0d7a287468)
 
 
 1. [Quicksilver](https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn)
@@ -56,6 +56,9 @@
 48. [Lum Network](https://explorer.stavr.tech/LumNetwork-Mainnet/staking/lumvaloper1rs6733nm675q3hzx85dl75t3q893tfukyz22he)
 49. [Shentu](https://explorer.stavr.tech/Shentu-Mainnet/staking/shentuvaloper1d0jzx50cr5vl87ld8j0q7rfh8ka269vgra237z)
 50. [Cheqd](https://explorer.stavr.tech/Cheqd-Mainnet/staking/cheqdvaloper167t2yzx24s0n92esd9xd6zwmy2ya92teac7evx)
+51. [Vidulum](https://explorer.stavr.tech/Vidulum-Mainnet/staking/vdlvaloper1ad4n75v6wu4n39frrryfya9mw77h4qz4j6gv6r)
+52. [KiChain](https://explorer.stavr.tech/Kichain-Mainnet/staking/kivaloper1pmg8tvea6acfdy2ucjpvqvy9vmye6zmfrvhzty)
+53. [Point](https://explorer.stavr.tech/Point-Mainnet/staking/pointvaloper1kxrjwh009nhg8ddqrr8hwrj7nenr4zp0sj4j25)
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
