@@ -53,7 +53,7 @@
 46. [Cyber](https://explorer.stavr.tech/Cyber-Mainnet/staking/bostromvaloper165p3as2erpcpkea2v57fzhx5q570t2eumcmtm8)
 47. [Andromeda](https://explorer.stavr.tech/Andromeda-Mainnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 48. [Lum Network](https://explorer.stavr.tech/LumNetwork-Mainnet/staking/lumvaloper1rs6733nm675q3hzx85dl75t3q893tfukyz22he)
-49. [Shentu](https://explorer.stavr.tech/Shentu-Mainnet/staking/shentuvaloper1d0jzx50cr5vl87ld8j0q7rfh8ka269vgra237z)
+49. [Shentu](https://explorer.stavr.tech/Shentu-Mainnet/staking/shentuvaloper1u05xu47w2hemqrpejn3dsxg7nqywx068q34y9z)
 50. [Cheqd](https://explorer.stavr.tech/Cheqd-Mainnet/staking/cheqdvaloper167t2yzx24s0n92esd9xd6zwmy2ya92teac7evx)
 51. [Vidulum](https://explorer.stavr.tech/Vidulum-Mainnet/staking/vdlvaloper1ad4n75v6wu4n39frrryfya9mw77h4qz4j6gv6r)
 52. [KiChain](https://explorer.stavr.tech/Kichain-Mainnet/staking/kivaloper1pmg8tvea6acfdy2ucjpvqvy9vmye6zmfrvhzty)
