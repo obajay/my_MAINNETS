@@ -63,7 +63,7 @@
 57. [Decentr](https://explorer.stavr.tech/Decentr-Mainnet/staking/decentrvaloper1yv2ndyf63nk65gqhhrfep5pselghrwvveaa5d4)
 58. [LikeCoin](https://explorer.stavr.tech/Likecoin-M/staking/likevaloper1pxvegy2m8u3v4c20p5p4v0wre4ggd5luumku9w)
 59. [Qwoyn](https://explorer.stavr.tech/Qwoyn-Mainnet/staking/qwoynvaloper1d8mhdkf2tzdszt59hvl2uq65h9l6r68y0usvc0)
-60. 
+
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
