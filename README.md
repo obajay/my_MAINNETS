@@ -1,8 +1,6 @@
-# my_MAINNETS 
-
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/df5ae479-7e0e-4f28-bfe4-a72d3e868ac3)
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/7d522490-9aaa-43c8-8468-37661e6df00b)
 
 1. [Quicksilver](https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn)
 2. [Teritori](https://explorer.stavr.tech/Teritori-Main/staking/torivaloper1sqk72uwf6tg867ssuu7whxfu9pfcyrpeqwa92c)
@@ -64,6 +62,16 @@
 58. [LikeCoin](https://explorer.stavr.tech/Likecoin-M/staking/likevaloper1pxvegy2m8u3v4c20p5p4v0wre4ggd5luumku9w)
 59. [Qwoyn](https://explorer.stavr.tech/Qwoyn-Mainnet/staking/qwoynvaloper1d8mhdkf2tzdszt59hvl2uq65h9l6r68y0usvc0)
 60. [Massa](https://massa.net/#explorer)
+61. [Carbon](https://explorer.stavr.tech/Carbon-Mainnet/staking/swthvaloper1d060n59ghe9cdw5pcxvz77k5dx3r2pp7nrajkq)
+62. [Chihuahua](https://explorer.stavr.tech/Chihua-Mainnet/staking/chihuahuavaloper1my7fdnj0dl04rvqnjh92r5epq4c8808xw2jytk)
+63. [Comdex](https://explorer.stavr.tech/Comdex-Mainnet/staking/comdexvaloper1g6fm6xcgzrlm9d2apf3t8xvu7wrk509wxyy5rq)
+64. [Crescent](https://explorer.stavr.tech/Crescent-Mainnet/staking/crevaloper12p9utph8m0xjducj4uvgvzg75mp0awdpr3ulps)
+65. [Desmos](https://explorer.stavr.tech/Desmos-Mainnet/staking/desmosvaloper13lv6s8tv66xng9td2pxlp5wweq3wnhz8a23pkd)
+66. [Medibloc](https://explorer.stavr.tech/Medibloc-Mainnet/staking/panaceavaloper1006saymslg70y70q9txgsnpr92ly5x36pkxy2z)
+67. [Oraichain](https://explorer.stavr.tech/Orai-Mainnet/staking/oraivaloper1llyh95du5hnswtq245s87d4fwv6k6ht4vnx8v8)
+68. [Regen](https://explorer.stavr.tech/Regen-Mainnet/staking/regenvaloper1adzpsnvegat0mdcd2yn3hpy8hly9t20cwzjmj6)
+69. [Sommilier](https://explorer.stavr.tech/Sommelier-Mainnet/staking/sommvaloper1fes322u0x7422ugc05xkxeav2zzd3kfgf898f4)
+70. [Xpla](https://explorer.stavr.tech/Xpla-Mainnet/staking/xplavaloper173nykxpfss6qmlhqddh6a4q7rxvyjckt52djaq)
 
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
