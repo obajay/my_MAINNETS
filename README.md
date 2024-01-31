@@ -1,6 +1,6 @@
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/7d522490-9aaa-43c8-8468-37661e6df00b)
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/14a95d31-a73a-48f6-8b97-434064873efb)
 
 1. [Quicksilver](https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn)
 2. [Teritori](https://explorer.stavr.tech/Teritori-Main/staking/torivaloper1sqk72uwf6tg867ssuu7whxfu9pfcyrpeqwa92c)
@@ -15,7 +15,6 @@
 11. [Bitsong](https://explorer.stavr.tech/Bitsong/staking/bitsongvaloper1c5p4sqgz5jslpywsk5c0nasqqjfucv9lvjlnry)
 12. [DIG](https://explorer.stavr.tech/DIG/staking/digvaloper1lzs9a922fygv2dlm97jgfqm9ueqq3rj938kqdq)
 13. [BeeZee](https://explorer.stavr.tech/BeeZee/staking/bzevaloper16zk776px8ef00hmd59vgnueegyrkk3lja0nhy4)
-14. [Konstellation](https://explorer.stavr.tech/Konstellation/staking/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j)
 15. [SIFCHAIN](https://explorer.stavr.tech/Sifchain/staking/sifvaloper1k5ypsesvvfga6pxjdxggaph97ywwf4l4mw0mqp)
 16. [Rizon](https://explorer.stavr.tech/Rizon/staking/rizonvaloper1w7ayxavsjahthtkfdzs8gp75htn30gxru4pmzk)
 17. [Genesisl1](https://explorer.stavr.tech/Genesisl1/staking/genesisvaloper1p4n3fy8wqmn4ja0fp4lenaemyzlxrp6ysrhxfj)
@@ -76,6 +75,3 @@
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
-
-
-
