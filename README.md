@@ -1,6 +1,6 @@
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/a4da7413-0cc6-4cb6-b967-176716526879)
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/32da6960-db0c-4a32-a9f1-bb4d7a261779)
 
 1. [Quicksilver](https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn)
 2. [Teritori](https://explorer.stavr.tech/Teritori-Main/staking/torivaloper1sqk72uwf6tg867ssuu7whxfu9pfcyrpeqwa92c)
@@ -72,6 +72,8 @@
 69. [Sommilier](https://explorer.stavr.tech/Sommelier-Mainnet/staking/sommvaloper1fes322u0x7422ugc05xkxeav2zzd3kfgf898f4)
 70. [Xpla](https://explorer.stavr.tech/Xpla-Mainnet/staking/xplavaloper173nykxpfss6qmlhqddh6a4q7rxvyjckt52djaq)
 71. [Dymension](https://explorer.stavr.tech/Dymension-Mainnet/staking/dymvaloper1amxp0k0hg4edrxg85v07t9ka2tfuhamhldgf8e)
+71. [ODIN](https://explorer.stavr.tech/Odin-Mainnet/staking/odinvaloper1qy8ydw4vxpvlkxfkk8lqtpffwpqk0d8th2v9ly)
+
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
