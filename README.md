@@ -2,6 +2,7 @@
 
 ![111](https://github.com/obajay/my_MAINNETS/assets/44331529/32da6960-db0c-4a32-a9f1-bb4d7a261779)
 
+
 1. [Quicksilver](https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn)
 2. [Teritori](https://explorer.stavr.tech/Teritori-Main/staking/torivaloper1sqk72uwf6tg867ssuu7whxfu9pfcyrpeqwa92c)
 3. [AGORIC](https://explorer.stavr.tech/Agoric/staking/agoricvaloper16w8w9l89av0vey6gdreatkuh43n69u7je2t7l2)
