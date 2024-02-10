@@ -78,3 +78,4 @@
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
++ email - stavr.tech@gmail.com
