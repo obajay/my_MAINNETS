@@ -1,6 +1,6 @@
 ![burn logo (1)](https://user-images.githubusercontent.com/44331529/221395239-c02f3ae8-8da1-4261-a604-654de9477eb1.png)
 
-![111](https://github.com/obajay/my_MAINNETS/assets/44331529/d7ab5818-305b-4091-9129-2668248995c5)
+![111](https://github.com/obajay/my_MAINNETS/assets/44331529/c0df4695-cd7a-4177-95f9-b1024902eb9f)
 
 
 1. [Quicksilver](https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper198arckkz24ag0c32pnhmxpfe2hyu7gkvp9tnmn)
@@ -75,6 +75,7 @@
 71. [Dymension](https://explorer.stavr.tech/Dymension-Mainnet/staking/dymvaloper1amxp0k0hg4edrxg85v07t9ka2tfuhamhldgf8e)
 71. [ODIN](https://explorer.stavr.tech/Odin-Mainnet/staking/odinvaloper1qy8ydw4vxpvlkxfkk8lqtpffwpqk0d8th2v9ly)
 72. [Dora](https://explorer.stavr.tech/Dora-Mainnet/staking/doravaloper10wygchf7sk6mhhxvsfmax7tzz4z3psx9st828r)
+73. [Althea](https://explorer.stavr.tech/Althea-Mainnet/staking/altheavaloper19fmpww5ph44hxkg4z4a9yq5yszfkekgnz9hull)
 
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
